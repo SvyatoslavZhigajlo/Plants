@@ -4,4 +4,5 @@ public class Plants {
     private int lifeTime; //время жизни
     private int heightGrowth; //высота роста см
     private String placeGrowth; //место (география) роста
+    private String name;
 }
